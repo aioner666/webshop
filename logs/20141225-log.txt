@@ -1,0 +1,336 @@
+------ 灰色枫叶 时间: 00:34:02 客户IP: 120.192.231.178 ------
+
+错误：mysql_fetch_array(): supplied argument is not a valid MySQL result resource
+
+文件: D:\AionEnv\AionWeb\webshop\libs\Factory.class.php
+
+LINHA: 192
+
+引用: http://sg.aionroy.com:88/webshop/shop.php?page=1&categoryId=0&sub_categoryId=5
+
+POST   : NULL
+
+GET    : NULL
+
+FILE    : NULL
+
+SESSION    : NULL
+
+COOKIE    : NULL
+
+SERVER    : NULL
+
+------ 灰色枫叶 时间: 00:34:02 客户IP: 120.192.231.178 ------
+
+错误：mysql_free_result(): supplied argument is not a valid MySQL result resource
+
+文件: D:\AionEnv\AionWeb\webshop\libs\Factory.class.php
+
+LINHA: 196
+
+引用: http://sg.aionroy.com:88/webshop/shop.php?page=1&categoryId=0&sub_categoryId=5
+
+POST   : NULL
+
+GET    : NULL
+
+FILE    : NULL
+
+SESSION    : NULL
+
+COOKIE    : NULL
+
+SERVER    : NULL
+
+------ 灰色枫叶 时间: 00:34:02 客户IP: 120.192.231.178 ------
+
+错误：Invalid argument supplied for foreach()
+
+文件: D:\AionEnv\AionWeb\webshop\shop.php
+
+LINHA: 189
+
+引用: http://sg.aionroy.com:88/webshop/shop.php?page=1&categoryId=0&sub_categoryId=5
+
+POST   : array (
+)
+
+GET    : array (
+  'page' => '1',
+  'categoryId' => '2',
+  'sub_categoryId' => '7',
+)
+
+FILE    : array (
+)
+
+SESSION    : array (
+  'id' => '259',
+  'name' => 'aion',
+  'access_level' => '0',
+)
+
+COOKIE    : array (
+  'PHPSESSID' => 'um47dc1dieat79vls6ev6cbul6',
+)
+
+SERVER    : array (
+  'HTTP_HOST' => 'sg.aionroy.com:88',
+  'HTTP_CONNECTION' => 'keep-alive',
+  'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'HTTP_X_WAP_PROFILE' => 'http://218.249.47.94/Xianghe/MTK_LTE_Phone_KK_UAprofile.xml',
+  'HTTP_USER_AGENT' => 'Mozilla/5.0 (Linux; Android 4.4.2; Coolpad 8675 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36 V1_AND_SQ_5.3.1_196_YYB_D QQ/5.3.1.2335 NetType/WIFI',
+  'HTTP_REFERER' => 'http://sg.aionroy.com:88/webshop/shop.php?page=1&categoryId=0&sub_categoryId=5',
+  'HTTP_ACCEPT_ENCODING' => 'gzip,deflate',
+  'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,en-US;q=0.8',
+  'HTTP_COOKIE' => 'PHPSESSID=um47dc1dieat79vls6ev6cbul6',
+  'HTTP_X_REQUESTED_WITH' => 'com.tencent.mobileqq',
+  'PATH' => 'C:\\cygwinroot\\usr\\local\\bin;C:\\cygwinroot\\bin;C:\\cygwinroot\\bin;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\ldaptools;C:\\Program Files\\TortoiseSVN\\bin;',
+  'SystemRoot' => 'C:\\Windows',
+  'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe',
+  'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC',
+  'WINDIR' => 'C:\\Windows',
+  'SERVER_SIGNATURE' => '',
+  'SERVER_SOFTWARE' => 'Apache/2.2.16 (Win32) mod_aspdotnet/2.2 PHP/5.2.14',
+  'SERVER_NAME' => 'sg.aionroy.com',
+  'SERVER_ADDR' => '10.247.10.50',
+  'SERVER_PORT' => '88',
+  'REMOTE_ADDR' => '120.192.231.178',
+  'DOCUMENT_ROOT' => 'D:/AionEnv/AionWeb',
+  'SERVER_ADMIN' => 'admin@localhost',
+  'SCRIPT_FILENAME' => 'D:/AionEnv/AionWeb/webshop/shop.php',
+  'REMOTE_PORT' => '46732',
+  'GATEWAY_INTERFACE' => 'CGI/1.1',
+  'SERVER_PROTOCOL' => 'HTTP/1.1',
+  'REQUEST_METHOD' => 'GET',
+  'QUERY_STRING' => 'page=1&categoryId=2&sub_categoryId=7',
+  'REQUEST_URI' => '/webshop/shop.php?page=1&categoryId=2&sub_categoryId=7',
+  'SCRIPT_NAME' => '/webshop/shop.php',
+  'PHP_SELF' => '/webshop/shop.php',
+  'REQUEST_TIME' => 1419467642,
+)
+
+------ 灰色枫叶 时间: 00:34:12 客户IP: 120.192.231.178 ------
+
+错误：mysql_fetch_array(): supplied argument is not a valid MySQL result resource
+
+文件: D:\AionEnv\AionWeb\webshop\libs\Factory.class.php
+
+LINHA: 192
+
+引用: http://sg.aionroy.com:88/webshop/shop.php?page=1&categoryId=2&sub_categoryId=7
+
+POST   : NULL
+
+GET    : NULL
+
+FILE    : NULL
+
+SESSION    : NULL
+
+COOKIE    : NULL
+
+SERVER    : NULL
+
+------ 灰色枫叶 时间: 00:34:12 客户IP: 120.192.231.178 ------
+
+错误：mysql_free_result(): supplied argument is not a valid MySQL result resource
+
+文件: D:\AionEnv\AionWeb\webshop\libs\Factory.class.php
+
+LINHA: 196
+
+引用: http://sg.aionroy.com:88/webshop/shop.php?page=1&categoryId=2&sub_categoryId=7
+
+POST   : NULL
+
+GET    : NULL
+
+FILE    : NULL
+
+SESSION    : NULL
+
+COOKIE    : NULL
+
+SERVER    : NULL
+
+------ 灰色枫叶 时间: 00:34:12 客户IP: 120.192.231.178 ------
+
+错误：Invalid argument supplied for foreach()
+
+文件: D:\AionEnv\AionWeb\webshop\shop.php
+
+LINHA: 189
+
+引用: http://sg.aionroy.com:88/webshop/shop.php?page=1&categoryId=2&sub_categoryId=7
+
+POST   : array (
+)
+
+GET    : array (
+  'page' => '1',
+  'categoryId' => '1',
+  'sub_categoryId' => '7',
+)
+
+FILE    : array (
+)
+
+SESSION    : array (
+  'id' => '259',
+  'name' => 'aion',
+  'access_level' => '0',
+)
+
+COOKIE    : array (
+  'PHPSESSID' => 'um47dc1dieat79vls6ev6cbul6',
+)
+
+SERVER    : array (
+  'HTTP_HOST' => 'sg.aionroy.com:88',
+  'HTTP_CONNECTION' => 'keep-alive',
+  'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'HTTP_X_WAP_PROFILE' => 'http://218.249.47.94/Xianghe/MTK_LTE_Phone_KK_UAprofile.xml',
+  'HTTP_USER_AGENT' => 'Mozilla/5.0 (Linux; Android 4.4.2; Coolpad 8675 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36 V1_AND_SQ_5.3.1_196_YYB_D QQ/5.3.1.2335 NetType/WIFI',
+  'HTTP_REFERER' => 'http://sg.aionroy.com:88/webshop/shop.php?page=1&categoryId=2&sub_categoryId=7',
+  'HTTP_ACCEPT_ENCODING' => 'gzip,deflate',
+  'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,en-US;q=0.8',
+  'HTTP_COOKIE' => 'PHPSESSID=um47dc1dieat79vls6ev6cbul6',
+  'HTTP_X_REQUESTED_WITH' => 'com.tencent.mobileqq',
+  'PATH' => 'C:\\cygwinroot\\usr\\local\\bin;C:\\cygwinroot\\bin;C:\\cygwinroot\\bin;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\ldaptools;C:\\Program Files\\TortoiseSVN\\bin;',
+  'SystemRoot' => 'C:\\Windows',
+  'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe',
+  'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC',
+  'WINDIR' => 'C:\\Windows',
+  'SERVER_SIGNATURE' => '',
+  'SERVER_SOFTWARE' => 'Apache/2.2.16 (Win32) mod_aspdotnet/2.2 PHP/5.2.14',
+  'SERVER_NAME' => 'sg.aionroy.com',
+  'SERVER_ADDR' => '10.247.10.50',
+  'SERVER_PORT' => '88',
+  'REMOTE_ADDR' => '120.192.231.178',
+  'DOCUMENT_ROOT' => 'D:/AionEnv/AionWeb',
+  'SERVER_ADMIN' => 'admin@localhost',
+  'SCRIPT_FILENAME' => 'D:/AionEnv/AionWeb/webshop/shop.php',
+  'REMOTE_PORT' => '46783',
+  'GATEWAY_INTERFACE' => 'CGI/1.1',
+  'SERVER_PROTOCOL' => 'HTTP/1.1',
+  'REQUEST_METHOD' => 'GET',
+  'QUERY_STRING' => 'page=1&categoryId=1&sub_categoryId=7',
+  'REQUEST_URI' => '/webshop/shop.php?page=1&categoryId=1&sub_categoryId=7',
+  'SCRIPT_NAME' => '/webshop/shop.php',
+  'PHP_SELF' => '/webshop/shop.php',
+  'REQUEST_TIME' => 1419467652,
+)
+
+------ 灰色枫叶 时间: 00:35:27 客户IP: 120.192.231.178 ------
+
+错误：mysql_fetch_array(): supplied argument is not a valid MySQL result resource
+
+文件: D:\AionEnv\AionWeb\webshop\libs\Factory.class.php
+
+LINHA: 192
+
+引用: http://sg.aionroy.com:88/webshop/shop.php?page=1&categoryId=1&sub_categoryId=3
+
+POST   : NULL
+
+GET    : NULL
+
+FILE    : NULL
+
+SESSION    : NULL
+
+COOKIE    : NULL
+
+SERVER    : NULL
+
+------ 灰色枫叶 时间: 00:35:27 客户IP: 120.192.231.178 ------
+
+错误：mysql_free_result(): supplied argument is not a valid MySQL result resource
+
+文件: D:\AionEnv\AionWeb\webshop\libs\Factory.class.php
+
+LINHA: 196
+
+引用: http://sg.aionroy.com:88/webshop/shop.php?page=1&categoryId=1&sub_categoryId=3
+
+POST   : NULL
+
+GET    : NULL
+
+FILE    : NULL
+
+SESSION    : NULL
+
+COOKIE    : NULL
+
+SERVER    : NULL
+
+------ 灰色枫叶 时间: 00:35:27 客户IP: 120.192.231.178 ------
+
+错误：Invalid argument supplied for foreach()
+
+文件: D:\AionEnv\AionWeb\webshop\shop.php
+
+LINHA: 189
+
+引用: http://sg.aionroy.com:88/webshop/shop.php?page=1&categoryId=1&sub_categoryId=3
+
+POST   : array (
+)
+
+GET    : array (
+  'page' => '1',
+  'categoryId' => '1',
+  'sub_categoryId' => '6',
+)
+
+FILE    : array (
+)
+
+SESSION    : array (
+  'id' => '259',
+  'name' => 'aion',
+  'access_level' => '0',
+)
+
+COOKIE    : array (
+  'PHPSESSID' => 'um47dc1dieat79vls6ev6cbul6',
+)
+
+SERVER    : array (
+  'HTTP_HOST' => 'sg.aionroy.com:88',
+  'HTTP_CONNECTION' => 'keep-alive',
+  'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'HTTP_X_WAP_PROFILE' => 'http://218.249.47.94/Xianghe/MTK_LTE_Phone_KK_UAprofile.xml',
+  'HTTP_USER_AGENT' => 'Mozilla/5.0 (Linux; Android 4.4.2; Coolpad 8675 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36 V1_AND_SQ_5.3.1_196_YYB_D QQ/5.3.1.2335 NetType/WIFI',
+  'HTTP_REFERER' => 'http://sg.aionroy.com:88/webshop/shop.php?page=1&categoryId=1&sub_categoryId=3',
+  'HTTP_ACCEPT_ENCODING' => 'gzip,deflate',
+  'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,en-US;q=0.8',
+  'HTTP_COOKIE' => 'PHPSESSID=um47dc1dieat79vls6ev6cbul6',
+  'HTTP_X_REQUESTED_WITH' => 'com.tencent.mobileqq',
+  'PATH' => 'C:\\cygwinroot\\usr\\local\\bin;C:\\cygwinroot\\bin;C:\\cygwinroot\\bin;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\ldaptools;C:\\Program Files\\TortoiseSVN\\bin;',
+  'SystemRoot' => 'C:\\Windows',
+  'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe',
+  'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC',
+  'WINDIR' => 'C:\\Windows',
+  'SERVER_SIGNATURE' => '',
+  'SERVER_SOFTWARE' => 'Apache/2.2.16 (Win32) mod_aspdotnet/2.2 PHP/5.2.14',
+  'SERVER_NAME' => 'sg.aionroy.com',
+  'SERVER_ADDR' => '10.247.10.50',
+  'SERVER_PORT' => '88',
+  'REMOTE_ADDR' => '120.192.231.178',
+  'DOCUMENT_ROOT' => 'D:/AionEnv/AionWeb',
+  'SERVER_ADMIN' => 'admin@localhost',
+  'SCRIPT_FILENAME' => 'D:/AionEnv/AionWeb/webshop/shop.php',
+  'REMOTE_PORT' => '47178',
+  'GATEWAY_INTERFACE' => 'CGI/1.1',
+  'SERVER_PROTOCOL' => 'HTTP/1.1',
+  'REQUEST_METHOD' => 'GET',
+  'QUERY_STRING' => 'page=1&categoryId=1&sub_categoryId=6',
+  'REQUEST_URI' => '/webshop/shop.php?page=1&categoryId=1&sub_categoryId=6',
+  'SCRIPT_NAME' => '/webshop/shop.php',
+  'PHP_SELF' => '/webshop/shop.php',
+  'REQUEST_TIME' => 1419467727,
+)
+

@@ -1,0 +1,461 @@
+------ 灰色枫叶 时间: 06:00:47 客户IP: 60.209.238.98 ------
+
+错误：mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to MySQL server on '127.0.0.1' (10061)
+
+文件: D:\AionEnv\AionWeb\webshop\config\config.php
+
+LINHA: 91
+
+引用: http://sg.aionroy.com:88/webshop/shop.php?page=1&categoryId=2&sub_categoryId=6
+
+POST   : array (
+)
+
+GET    : array (
+  'page' => '2',
+  'categoryId' => '2',
+  'sub_categoryId' => '6',
+)
+
+FILE    : array (
+)
+
+SESSION    : array (
+  'id' => '927',
+  'name' => 'hky5455',
+  'access_level' => '0',
+  'playername' => '丿丶筱筱',
+  'timess' => 1420264824,
+  'last_item_objectid' => 229,
+)
+
+COOKIE    : array (
+  'tip_keyboard' => '1',
+  'PHPSESSID' => '5tk7olitaa6tk4u0p14au1djs0',
+)
+
+SERVER    : array (
+  'HTTP_ACCEPT' => 'text/html, application/xhtml+xml, */*',
+  'HTTP_REFERER' => 'http://sg.aionroy.com:88/webshop/shop.php?page=1&categoryId=2&sub_categoryId=6',
+  'HTTP_ACCEPT_LANGUAGE' => 'zh-CN',
+  'HTTP_USER_AGENT' => 'Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0)',
+  'HTTP_ACCEPT_ENCODING' => 'gzip, deflate',
+  'HTTP_HOST' => 'sg.aionroy.com:88',
+  'HTTP_DNT' => '1',
+  'HTTP_CONNECTION' => 'Keep-Alive',
+  'HTTP_COOKIE' => 'tip_keyboard=1; PHPSESSID=5tk7olitaa6tk4u0p14au1djs0',
+  'PATH' => 'C:\\cygwinroot\\usr\\local\\bin;C:\\cygwinroot\\bin;C:\\cygwinroot\\bin;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\ldaptools;C:\\Program Files\\TortoiseSVN\\bin;',
+  'SystemRoot' => 'C:\\Windows',
+  'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe',
+  'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC',
+  'WINDIR' => 'C:\\Windows',
+  'SERVER_SIGNATURE' => '',
+  'SERVER_SOFTWARE' => 'Apache/2.2.16 (Win32) mod_aspdotnet/2.2 PHP/5.2.14',
+  'SERVER_NAME' => 'sg.aionroy.com',
+  'SERVER_ADDR' => '10.247.10.50',
+  'SERVER_PORT' => '88',
+  'REMOTE_ADDR' => '60.209.238.98',
+  'DOCUMENT_ROOT' => 'D:/AionEnv/AionWeb',
+  'SERVER_ADMIN' => 'admin@localhost',
+  'SCRIPT_FILENAME' => 'D:/AionEnv/AionWeb/webshop/shop.php',
+  'REMOTE_PORT' => '53246',
+  'GATEWAY_INTERFACE' => 'CGI/1.1',
+  'SERVER_PROTOCOL' => 'HTTP/1.1',
+  'REQUEST_METHOD' => 'GET',
+  'QUERY_STRING' => 'page=2&categoryId=2&sub_categoryId=6',
+  'REQUEST_URI' => '/webshop/shop.php?page=2&categoryId=2&sub_categoryId=6',
+  'SCRIPT_NAME' => '/webshop/shop.php',
+  'PHP_SELF' => '/webshop/shop.php',
+  'REQUEST_TIME' => 1420264846,
+)
+
+------ 灰色枫叶 时间: 06:00:49 客户IP: 222.133.180.131 ------
+
+错误：mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to MySQL server on '127.0.0.1' (10061)
+
+文件: D:\AionEnv\AionWeb\webshop\config\config.php
+
+LINHA: 91
+
+引用: http://sg.aionroy.com:88/webshop/shop.php?page=1&categoryId=1&sub_categoryId=3
+
+POST   : array (
+)
+
+GET    : array (
+  'page' => '1',
+  'categoryId' => '1',
+  'sub_categoryId' => '6',
+)
+
+FILE    : array (
+)
+
+SESSION    : array (
+  'id' => '429',
+  'name' => 'PFL221',
+  'access_level' => '0',
+  'playername' => 'Mo丶沫沫',
+  'timess' => 1420262727,
+)
+
+COOKIE    : array (
+  'tip_keyboard' => '1',
+  'PHPSESSID' => 'cejs0mvu2pkdssg5dvijq30to2',
+)
+
+SERVER    : array (
+  'HTTP_HOST' => 'sg.aionroy.com:88',
+  'HTTP_CONNECTION' => 'keep-alive',
+  'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36',
+  'HTTP_REFERER' => 'http://sg.aionroy.com:88/webshop/shop.php?page=1&categoryId=1&sub_categoryId=3',
+  'HTTP_ACCEPT_ENCODING' => 'gzip,deflate,sdch',
+  'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.8',
+  'HTTP_COOKIE' => 'tip_keyboard=1; PHPSESSID=cejs0mvu2pkdssg5dvijq30to2',
+  'PATH' => 'C:\\cygwinroot\\usr\\local\\bin;C:\\cygwinroot\\bin;C:\\cygwinroot\\bin;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\ldaptools;C:\\Program Files\\TortoiseSVN\\bin;',
+  'SystemRoot' => 'C:\\Windows',
+  'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe',
+  'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC',
+  'WINDIR' => 'C:\\Windows',
+  'SERVER_SIGNATURE' => '',
+  'SERVER_SOFTWARE' => 'Apache/2.2.16 (Win32) mod_aspdotnet/2.2 PHP/5.2.14',
+  'SERVER_NAME' => 'sg.aionroy.com',
+  'SERVER_ADDR' => '10.247.10.50',
+  'SERVER_PORT' => '88',
+  'REMOTE_ADDR' => '222.133.180.131',
+  'DOCUMENT_ROOT' => 'D:/AionEnv/AionWeb',
+  'SERVER_ADMIN' => 'admin@localhost',
+  'SCRIPT_FILENAME' => 'D:/AionEnv/AionWeb/webshop/shop.php',
+  'REMOTE_PORT' => '52225',
+  'GATEWAY_INTERFACE' => 'CGI/1.1',
+  'SERVER_PROTOCOL' => 'HTTP/1.1',
+  'REQUEST_METHOD' => 'GET',
+  'QUERY_STRING' => 'page=1&categoryId=1&sub_categoryId=6',
+  'REQUEST_URI' => '/webshop/shop.php?page=1&categoryId=1&sub_categoryId=6',
+  'SCRIPT_NAME' => '/webshop/shop.php',
+  'PHP_SELF' => '/webshop/shop.php',
+  'REQUEST_TIME' => 1420264848,
+)
+
+------ 灰色枫叶 时间: 06:00:56 客户IP: 222.133.180.131 ------
+
+错误：mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to MySQL server on '127.0.0.1' (10061)
+
+文件: D:\AionEnv\AionWeb\webshop\config\config.php
+
+LINHA: 91
+
+引用: http://sg.aionroy.com:88/webshop/shop.php?page=1&categoryId=1&sub_categoryId=3
+
+POST   : array (
+)
+
+GET    : array (
+  'page' => '1',
+  'categoryId' => '1',
+  'sub_categoryId' => '6',
+)
+
+FILE    : array (
+)
+
+SESSION    : array (
+  'id' => '429',
+  'name' => 'PFL221',
+  'access_level' => '0',
+  'playername' => 'Mo丶沫沫',
+  'timess' => 1420262727,
+)
+
+COOKIE    : array (
+  'tip_keyboard' => '1',
+  'PHPSESSID' => 'cejs0mvu2pkdssg5dvijq30to2',
+)
+
+SERVER    : array (
+  'HTTP_HOST' => 'sg.aionroy.com:88',
+  'HTTP_CONNECTION' => 'keep-alive',
+  'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36',
+  'HTTP_REFERER' => 'http://sg.aionroy.com:88/webshop/shop.php?page=1&categoryId=1&sub_categoryId=3',
+  'HTTP_ACCEPT_ENCODING' => 'gzip,deflate,sdch',
+  'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.8',
+  'HTTP_COOKIE' => 'tip_keyboard=1; PHPSESSID=cejs0mvu2pkdssg5dvijq30to2',
+  'PATH' => 'C:\\cygwinroot\\usr\\local\\bin;C:\\cygwinroot\\bin;C:\\cygwinroot\\bin;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\ldaptools;C:\\Program Files\\TortoiseSVN\\bin;',
+  'SystemRoot' => 'C:\\Windows',
+  'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe',
+  'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC',
+  'WINDIR' => 'C:\\Windows',
+  'SERVER_SIGNATURE' => '',
+  'SERVER_SOFTWARE' => 'Apache/2.2.16 (Win32) mod_aspdotnet/2.2 PHP/5.2.14',
+  'SERVER_NAME' => 'sg.aionroy.com',
+  'SERVER_ADDR' => '10.247.10.50',
+  'SERVER_PORT' => '88',
+  'REMOTE_ADDR' => '222.133.180.131',
+  'DOCUMENT_ROOT' => 'D:/AionEnv/AionWeb',
+  'SERVER_ADMIN' => 'admin@localhost',
+  'SCRIPT_FILENAME' => 'D:/AionEnv/AionWeb/webshop/shop.php',
+  'REMOTE_PORT' => '52236',
+  'GATEWAY_INTERFACE' => 'CGI/1.1',
+  'SERVER_PROTOCOL' => 'HTTP/1.1',
+  'REQUEST_METHOD' => 'GET',
+  'QUERY_STRING' => 'page=1&categoryId=1&sub_categoryId=6',
+  'REQUEST_URI' => '/webshop/shop.php?page=1&categoryId=1&sub_categoryId=6',
+  'SCRIPT_NAME' => '/webshop/shop.php',
+  'PHP_SELF' => '/webshop/shop.php',
+  'REQUEST_TIME' => 1420264852,
+)
+
+------ 灰色枫叶 时间: 06:00:57 客户IP: 222.133.180.131 ------
+
+错误：mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to MySQL server on '127.0.0.1' (10061)
+
+文件: D:\AionEnv\AionWeb\webshop\config\config.php
+
+LINHA: 91
+
+引用: http://sg.aionroy.com:88/webshop/shop.php?page=1&categoryId=1&sub_categoryId=3
+
+POST   : array (
+)
+
+GET    : array (
+  'page' => '1',
+  'categoryId' => '1',
+  'sub_categoryId' => '7',
+)
+
+FILE    : array (
+)
+
+SESSION    : array (
+  'id' => '429',
+  'name' => 'PFL221',
+  'access_level' => '0',
+  'playername' => 'Mo丶沫沫',
+  'timess' => 1420262727,
+)
+
+COOKIE    : array (
+  'tip_keyboard' => '1',
+  'PHPSESSID' => 'cejs0mvu2pkdssg5dvijq30to2',
+)
+
+SERVER    : array (
+  'HTTP_HOST' => 'sg.aionroy.com:88',
+  'HTTP_CONNECTION' => 'keep-alive',
+  'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36',
+  'HTTP_REFERER' => 'http://sg.aionroy.com:88/webshop/shop.php?page=1&categoryId=1&sub_categoryId=3',
+  'HTTP_ACCEPT_ENCODING' => 'gzip,deflate,sdch',
+  'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.8',
+  'HTTP_COOKIE' => 'tip_keyboard=1; PHPSESSID=cejs0mvu2pkdssg5dvijq30to2',
+  'PATH' => 'C:\\cygwinroot\\usr\\local\\bin;C:\\cygwinroot\\bin;C:\\cygwinroot\\bin;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\ldaptools;C:\\Program Files\\TortoiseSVN\\bin;',
+  'SystemRoot' => 'C:\\Windows',
+  'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe',
+  'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC',
+  'WINDIR' => 'C:\\Windows',
+  'SERVER_SIGNATURE' => '',
+  'SERVER_SOFTWARE' => 'Apache/2.2.16 (Win32) mod_aspdotnet/2.2 PHP/5.2.14',
+  'SERVER_NAME' => 'sg.aionroy.com',
+  'SERVER_ADDR' => '10.247.10.50',
+  'SERVER_PORT' => '88',
+  'REMOTE_ADDR' => '222.133.180.131',
+  'DOCUMENT_ROOT' => 'D:/AionEnv/AionWeb',
+  'SERVER_ADMIN' => 'admin@localhost',
+  'SCRIPT_FILENAME' => 'D:/AionEnv/AionWeb/webshop/shop.php',
+  'REMOTE_PORT' => '52233',
+  'GATEWAY_INTERFACE' => 'CGI/1.1',
+  'SERVER_PROTOCOL' => 'HTTP/1.1',
+  'REQUEST_METHOD' => 'GET',
+  'QUERY_STRING' => 'page=1&categoryId=1&sub_categoryId=7',
+  'REQUEST_URI' => '/webshop/shop.php?page=1&categoryId=1&sub_categoryId=7',
+  'SCRIPT_NAME' => '/webshop/shop.php',
+  'PHP_SELF' => '/webshop/shop.php',
+  'REQUEST_TIME' => 1420264851,
+)
+
+------ 灰色枫叶 时间: 06:00:58 客户IP: 222.133.180.131 ------
+
+错误：mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to MySQL server on '127.0.0.1' (10061)
+
+文件: D:\AionEnv\AionWeb\webshop\config\config.php
+
+LINHA: 91
+
+引用: http://sg.aionroy.com:88/webshop/shop.php?page=1&categoryId=1&sub_categoryId=3
+
+POST   : array (
+)
+
+GET    : array (
+  'page' => '1',
+  'categoryId' => '1',
+  'sub_categoryId' => '7',
+)
+
+FILE    : array (
+)
+
+SESSION    : array (
+  'id' => '429',
+  'name' => 'PFL221',
+  'access_level' => '0',
+  'playername' => 'Mo丶沫沫',
+  'timess' => 1420262727,
+)
+
+COOKIE    : array (
+  'tip_keyboard' => '1',
+  'PHPSESSID' => 'cejs0mvu2pkdssg5dvijq30to2',
+)
+
+SERVER    : array (
+  'HTTP_HOST' => 'sg.aionroy.com:88',
+  'HTTP_CONNECTION' => 'keep-alive',
+  'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36',
+  'HTTP_REFERER' => 'http://sg.aionroy.com:88/webshop/shop.php?page=1&categoryId=1&sub_categoryId=3',
+  'HTTP_ACCEPT_ENCODING' => 'gzip,deflate,sdch',
+  'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.8',
+  'HTTP_COOKIE' => 'tip_keyboard=1; PHPSESSID=cejs0mvu2pkdssg5dvijq30to2',
+  'PATH' => 'C:\\cygwinroot\\usr\\local\\bin;C:\\cygwinroot\\bin;C:\\cygwinroot\\bin;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\ldaptools;C:\\Program Files\\TortoiseSVN\\bin;',
+  'SystemRoot' => 'C:\\Windows',
+  'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe',
+  'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC',
+  'WINDIR' => 'C:\\Windows',
+  'SERVER_SIGNATURE' => '',
+  'SERVER_SOFTWARE' => 'Apache/2.2.16 (Win32) mod_aspdotnet/2.2 PHP/5.2.14',
+  'SERVER_NAME' => 'sg.aionroy.com',
+  'SERVER_ADDR' => '10.247.10.50',
+  'SERVER_PORT' => '88',
+  'REMOTE_ADDR' => '222.133.180.131',
+  'DOCUMENT_ROOT' => 'D:/AionEnv/AionWeb',
+  'SERVER_ADMIN' => 'admin@localhost',
+  'SCRIPT_FILENAME' => 'D:/AionEnv/AionWeb/webshop/shop.php',
+  'REMOTE_PORT' => '52231',
+  'GATEWAY_INTERFACE' => 'CGI/1.1',
+  'SERVER_PROTOCOL' => 'HTTP/1.1',
+  'REQUEST_METHOD' => 'GET',
+  'QUERY_STRING' => 'page=1&categoryId=1&sub_categoryId=7',
+  'REQUEST_URI' => '/webshop/shop.php?page=1&categoryId=1&sub_categoryId=7',
+  'SCRIPT_NAME' => '/webshop/shop.php',
+  'PHP_SELF' => '/webshop/shop.php',
+  'REQUEST_TIME' => 1420264849,
+)
+
+------ 灰色枫叶 时间: 14:17:15 客户IP: 111.182.217.120 ------
+
+错误：mysql_fetch_array(): supplied argument is not a valid MySQL result resource
+
+文件: D:\AionEnv\AionWeb\webshop\libs\Factory.class.php
+
+LINHA: 192
+
+引用: http://sg.aionroy.com:88/webshop/shop.php?page=1&categoryId=3&sub_categoryId=3
+
+POST   : NULL
+
+GET    : NULL
+
+FILE    : NULL
+
+SESSION    : NULL
+
+COOKIE    : NULL
+
+SERVER    : NULL
+
+------ 灰色枫叶 时间: 14:17:15 客户IP: 111.182.217.120 ------
+
+错误：mysql_free_result(): supplied argument is not a valid MySQL result resource
+
+文件: D:\AionEnv\AionWeb\webshop\libs\Factory.class.php
+
+LINHA: 196
+
+引用: http://sg.aionroy.com:88/webshop/shop.php?page=1&categoryId=3&sub_categoryId=3
+
+POST   : NULL
+
+GET    : NULL
+
+FILE    : NULL
+
+SESSION    : NULL
+
+COOKIE    : NULL
+
+SERVER    : NULL
+
+------ 灰色枫叶 时间: 14:17:15 客户IP: 111.182.217.120 ------
+
+错误：Invalid argument supplied for foreach()
+
+文件: D:\AionEnv\AionWeb\webshop\shop.php
+
+LINHA: 189
+
+引用: http://sg.aionroy.com:88/webshop/shop.php?page=1&categoryId=3&sub_categoryId=3
+
+POST   : array (
+  'soitem' => 'http://sg.aionroy.com:88/',
+)
+
+GET    : array (
+)
+
+FILE    : array (
+)
+
+SESSION    : array (
+  'id' => '990',
+  'name' => 'czcv405',
+  'access_level' => '0',
+  'so_item_name' => 'http://sg.aionroy.com:88/',
+)
+
+COOKIE    : array (
+  'tip_keyboard' => '1',
+  'PHPSESSID' => 'm6lo4f17829nqkg5to9uodbts0',
+)
+
+SERVER    : array (
+  'HTTP_HOST' => 'sg.aionroy.com:88',
+  'HTTP_CONNECTION' => 'keep-alive',
+  'CONTENT_LENGTH' => '42',
+  'HTTP_CACHE_CONTROL' => 'max-age=0',
+  'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'HTTP_ORIGIN' => 'http://sg.aionroy.com:88',
+  'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36',
+  'CONTENT_TYPE' => 'application/x-www-form-urlencoded',
+  'HTTP_REFERER' => 'http://sg.aionroy.com:88/webshop/shop.php?page=1&categoryId=3&sub_categoryId=3',
+  'HTTP_ACCEPT_ENCODING' => 'gzip,deflate,sdch',
+  'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.8',
+  'HTTP_COOKIE' => 'tip_keyboard=1; PHPSESSID=m6lo4f17829nqkg5to9uodbts0',
+  'PATH' => 'C:\\cygwinroot\\usr\\local\\bin;C:\\cygwinroot\\bin;C:\\cygwinroot\\bin;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\ldaptools;C:\\Program Files\\TortoiseSVN\\bin;',
+  'SystemRoot' => 'C:\\Windows',
+  'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe',
+  'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC',
+  'WINDIR' => 'C:\\Windows',
+  'SERVER_SIGNATURE' => '',
+  'SERVER_SOFTWARE' => 'Apache/2.2.16 (Win32) mod_aspdotnet/2.2 PHP/5.2.14',
+  'SERVER_NAME' => 'sg.aionroy.com',
+  'SERVER_ADDR' => '10.247.10.50',
+  'SERVER_PORT' => '88',
+  'REMOTE_ADDR' => '111.182.217.120',
+  'DOCUMENT_ROOT' => 'D:/AionEnv/AionWeb',
+  'SERVER_ADMIN' => 'admin@localhost',
+  'SCRIPT_FILENAME' => 'D:/AionEnv/AionWeb/webshop/shop.php',
+  'REMOTE_PORT' => '52006',
+  'GATEWAY_INTERFACE' => 'CGI/1.1',
+  'SERVER_PROTOCOL' => 'HTTP/1.1',
+  'REQUEST_METHOD' => 'POST',
+  'QUERY_STRING' => '',
+  'REQUEST_URI' => '/webshop/shop.php',
+  'SCRIPT_NAME' => '/webshop/shop.php',
+  'PHP_SELF' => '/webshop/shop.php',
+  'REQUEST_TIME' => 1420294635,
+)
+

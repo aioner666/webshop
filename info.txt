@@ -1,0 +1,12 @@
+
+1、打开 libs\config.php 进行配置 数据库连接
+2、替换 in_game_shop.xml 为你自己的商城列表文件
+3、在数据库里面创建一个新数据库 eridian_web,然后导入 sql\eridian_web.sql 文件
+4、导入你的 商城数据 到GS 数据库下的 ingameshop 表中
+然后打开网页就可以了。
+=========================
+
+灰色枫叶 设计  2014.11.20
+
+---------------------------
+As ALWAYS. No share, leak or sell the web sources

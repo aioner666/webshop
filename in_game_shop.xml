@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<in_game_shop><!-- Created by IngameshopTools - 灰色枫叶 --> 
+	<category id="0" name="防具武器专区" >
+		<sub_category id="3" name="传说防具首饰箱子" />
+		<sub_category id="4" name="远古防具首饰箱子" />
+		<sub_category id="5" name="上古防具首饰箱子" />
+		<sub_category id="6" name="传说大帝武器" />
+		<sub_category id="7" name="远古大帝武器" />
+		<sub_category id="8" name="上古大帝武器" />
+	</category>
+	<category id="1" name="首饰系列" >
+		<sub_category id="3" name="传说神圣首饰" />
+		<sub_category id="4" name="远古神圣首饰" />
+		<sub_category id="5" name="上古神圣首饰" />
+		<sub_category id="6" name="翅膀、称号" />
+		<sub_category id="7" name="升级材料" />
+	</category>
+	<category id="2" name="免费物品" >
+		<sub_category id="3" name="治愈之根" />
+		<sub_category id="4" name="染色剂" />
+		<sub_category id="5" name="60级魔石" />
+		<sub_category id="6" name="糖果" />
+		<sub_category id="7" name="精灵石" />
+		<sub_category id="8" name="变更卷" />
+	</category>
+	<category id="3" name="留言物品添加" >
+		<sub_category id="3" name="烙印石头" />
+		<sub_category id="4" name="外形留言" />
+		
+	</category>
+	<category id="4" name="装备突破材料" >
+		<sub_category id="3" name="强化突破材料" />
+		<sub_category id="4" name="突破后的强化石" />
+	</category>
+</in_game_shop>

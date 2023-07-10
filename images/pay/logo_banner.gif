@@ -1,0 +1,11 @@
+﻿<?php
+
+$url=$_SERVER["HTTP_HOST"];
+
+if($url!='localhost:88' && $url !='localhost'&& $url !='www.wyaion.com:88') 
+{
+	
+echo '<script language="javascript"> alert("请使用授权的域名[http://www.aionhc.com:88/]打开本网页"); </script> ';
+exit;
+}
+?>

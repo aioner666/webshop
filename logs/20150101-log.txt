@@ -1,0 +1,172 @@
+------ 灰色枫叶 时间: 04:52:05 客户IP: 112.64.235.90 ------
+
+错误：mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 7
+
+文件: D:\AionEnv\AionWeb\webshop\alipayto.php
+
+LINHA: 39
+
+引用: 
+
+POST   : array (
+)
+
+GET    : array (
+)
+
+FILE    : array (
+)
+
+SESSION    : array (
+)
+
+COOKIE    : array (
+)
+
+SERVER    : array (
+  'HTTP_HOST' => 'sg.aionroy.com:88',
+  'HTTP_ACCEPT' => '*/*',
+  'HTTP_ACCEPT_CHARSET' => 'GB2312,utf-8;q=0.7,*;q=0.7',
+  'HTTP_ACCEPT_LANGUAGE' => 'zh-cn, zh',
+  'HTTP_USER_AGENT' => 'Mozilla/4.0',
+  'HTTP_CONNECTION' => 'close',
+  'PATH' => 'C:\\cygwinroot\\usr\\local\\bin;C:\\cygwinroot\\bin;C:\\cygwinroot\\bin;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\ldaptools;C:\\Program Files\\TortoiseSVN\\bin;',
+  'SystemRoot' => 'C:\\Windows',
+  'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe',
+  'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC',
+  'WINDIR' => 'C:\\Windows',
+  'SERVER_SIGNATURE' => '',
+  'SERVER_SOFTWARE' => 'Apache/2.2.16 (Win32) mod_aspdotnet/2.2 PHP/5.2.14',
+  'SERVER_NAME' => 'sg.aionroy.com',
+  'SERVER_ADDR' => '10.247.10.50',
+  'SERVER_PORT' => '88',
+  'REMOTE_ADDR' => '112.64.235.90',
+  'DOCUMENT_ROOT' => 'D:/AionEnv/AionWeb',
+  'SERVER_ADMIN' => 'admin@localhost',
+  'SCRIPT_FILENAME' => 'D:/AionEnv/AionWeb/webshop/alipayto.php',
+  'REMOTE_PORT' => '32793',
+  'GATEWAY_INTERFACE' => 'CGI/1.1',
+  'SERVER_PROTOCOL' => 'HTTP/1.1',
+  'REQUEST_METHOD' => 'GET',
+  'QUERY_STRING' => '',
+  'REQUEST_URI' => '/webshop/alipayto.php',
+  'SCRIPT_NAME' => '/webshop/alipayto.php',
+  'PHP_SELF' => '/webshop/alipayto.php',
+  'REQUEST_TIME' => 1420087925,
+)
+
+------ 灰色枫叶 时间: 05:06:25 客户IP: 112.64.235.90 ------
+
+错误：mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 7
+
+文件: D:\AionEnv\AionWeb\webshop\alipayto.php
+
+LINHA: 39
+
+引用: 
+
+POST   : array (
+)
+
+GET    : array (
+)
+
+FILE    : array (
+)
+
+SESSION    : array (
+)
+
+COOKIE    : array (
+)
+
+SERVER    : array (
+  'HTTP_HOST' => 'sg.aionroy.com:88',
+  'HTTP_ACCEPT' => '*/*',
+  'HTTP_ACCEPT_CHARSET' => 'GB2312,utf-8;q=0.7,*;q=0.7',
+  'HTTP_ACCEPT_LANGUAGE' => 'zh-cn, zh',
+  'HTTP_USER_AGENT' => 'Mozilla/4.0',
+  'HTTP_CONNECTION' => 'close',
+  'PATH' => 'C:\\cygwinroot\\usr\\local\\bin;C:\\cygwinroot\\bin;C:\\cygwinroot\\bin;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\ldaptools;C:\\Program Files\\TortoiseSVN\\bin;',
+  'SystemRoot' => 'C:\\Windows',
+  'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe',
+  'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC',
+  'WINDIR' => 'C:\\Windows',
+  'SERVER_SIGNATURE' => '',
+  'SERVER_SOFTWARE' => 'Apache/2.2.16 (Win32) mod_aspdotnet/2.2 PHP/5.2.14',
+  'SERVER_NAME' => 'sg.aionroy.com',
+  'SERVER_ADDR' => '10.247.10.50',
+  'SERVER_PORT' => '88',
+  'REMOTE_ADDR' => '112.64.235.90',
+  'DOCUMENT_ROOT' => 'D:/AionEnv/AionWeb',
+  'SERVER_ADMIN' => 'admin@localhost',
+  'SCRIPT_FILENAME' => 'D:/AionEnv/AionWeb/webshop/alipayto.php',
+  'REMOTE_PORT' => '50282',
+  'GATEWAY_INTERFACE' => 'CGI/1.1',
+  'SERVER_PROTOCOL' => 'HTTP/1.1',
+  'REQUEST_METHOD' => 'GET',
+  'QUERY_STRING' => '',
+  'REQUEST_URI' => '/webshop/alipayto.php',
+  'SCRIPT_NAME' => '/webshop/alipayto.php',
+  'PHP_SELF' => '/webshop/alipayto.php',
+  'REQUEST_TIME' => 1420088785,
+)
+
+------ 灰色枫叶 时间: 11:51:53 客户IP: 101.199.108.50 ------
+
+错误：mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 7
+
+文件: D:\AionEnv\AionWeb\webshop\alipayto.php
+
+LINHA: 39
+
+引用: 
+
+POST   : array (
+)
+
+GET    : array (
+)
+
+FILE    : array (
+)
+
+SESSION    : array (
+)
+
+COOKIE    : array (
+)
+
+SERVER    : array (
+  'HTTP_HOST' => 'sg.aionroy.com:88',
+  'HTTP_CONNECTION' => 'keep-alive',
+  'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Windows x86_64) AppleWebKit/536.11 (KHTML, like Gecko) chrome/22.0.1190.0 Safari/536.11',
+  'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'HTTP_ACCEPT_ENCODING' => 'gzip,deflate',
+  'HTTP_ACCEPT_LANGUAGE' => 'en-us,en',
+  'HTTP_ACCEPT_CHARSET' => 'iso-8859-1,*,utf-8',
+  'PATH' => 'C:\\cygwinroot\\usr\\local\\bin;C:\\cygwinroot\\bin;C:\\cygwinroot\\bin;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\ldaptools;C:\\Program Files\\TortoiseSVN\\bin;',
+  'SystemRoot' => 'C:\\Windows',
+  'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe',
+  'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC',
+  'WINDIR' => 'C:\\Windows',
+  'SERVER_SIGNATURE' => '',
+  'SERVER_SOFTWARE' => 'Apache/2.2.16 (Win32) mod_aspdotnet/2.2 PHP/5.2.14',
+  'SERVER_NAME' => 'sg.aionroy.com',
+  'SERVER_ADDR' => '10.247.10.50',
+  'SERVER_PORT' => '88',
+  'REMOTE_ADDR' => '101.199.108.50',
+  'DOCUMENT_ROOT' => 'D:/AionEnv/AionWeb',
+  'SERVER_ADMIN' => 'admin@localhost',
+  'SCRIPT_FILENAME' => 'D:/AionEnv/AionWeb/webshop/alipayto.php',
+  'REMOTE_PORT' => '37439',
+  'GATEWAY_INTERFACE' => 'CGI/1.1',
+  'SERVER_PROTOCOL' => 'HTTP/1.1',
+  'REQUEST_METHOD' => 'GET',
+  'QUERY_STRING' => '',
+  'REQUEST_URI' => '/webshop/alipayto.php',
+  'SCRIPT_NAME' => '/webshop/alipayto.php',
+  'PHP_SELF' => '/webshop/alipayto.php',
+  'REQUEST_TIME' => 1420113113,
+)
+

@@ -1,0 +1,560 @@
+------ 灰色枫叶 时间: 03:29:24 客户IP: 1.205.149.220 ------
+
+错误：mysql_fetch_array(): supplied argument is not a valid MySQL result resource
+
+文件: D:\AionEnv\AionWeb\libs\Factory.class.php
+
+LINHA: 192
+
+引用: http://sg.aionroy.com:88/shop.php?page=1&categoryId=0&sub_categoryId=6
+
+POST   : NULL
+
+GET    : NULL
+
+FILE    : NULL
+
+SESSION    : NULL
+
+COOKIE    : NULL
+
+SERVER    : NULL
+
+------ 灰色枫叶 时间: 03:29:24 客户IP: 1.205.149.220 ------
+
+错误：mysql_free_result(): supplied argument is not a valid MySQL result resource
+
+文件: D:\AionEnv\AionWeb\libs\Factory.class.php
+
+LINHA: 196
+
+引用: http://sg.aionroy.com:88/shop.php?page=1&categoryId=0&sub_categoryId=6
+
+POST   : NULL
+
+GET    : NULL
+
+FILE    : NULL
+
+SESSION    : NULL
+
+COOKIE    : NULL
+
+SERVER    : NULL
+
+------ 灰色枫叶 时间: 03:29:24 客户IP: 1.205.149.220 ------
+
+错误：Invalid argument supplied for foreach()
+
+文件: D:\AionEnv\AionWeb\shop.php
+
+LINHA: 189
+
+引用: http://sg.aionroy.com:88/shop.php?page=1&categoryId=0&sub_categoryId=6
+
+POST   : array (
+)
+
+GET    : array (
+  'page' => '1',
+  'categoryId' => '0',
+  'sub_categoryId' => '7',
+)
+
+FILE    : array (
+)
+
+SESSION    : array (
+  'id' => '48',
+  'name' => 'a56673',
+  'access_level' => '0',
+  'playername' => '安承风',
+)
+
+COOKIE    : array (
+  'PHPSESSID' => '7ibv9mbchdrc0hr1ofg7r2ppu2',
+)
+
+SERVER    : array (
+  'HTTP_HOST' => 'sg.aionroy.com:88',
+  'HTTP_CONNECTION' => 'keep-alive',
+  'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.89 Safari/537.1',
+  'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'HTTP_REFERER' => 'http://sg.aionroy.com:88/shop.php?page=1&categoryId=0&sub_categoryId=6',
+  'HTTP_ACCEPT_ENCODING' => 'gzip,deflate,sdch',
+  'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.8',
+  'HTTP_ACCEPT_CHARSET' => 'GBK,utf-8;q=0.7,*;q=0.3',
+  'HTTP_COOKIE' => 'PHPSESSID=7ibv9mbchdrc0hr1ofg7r2ppu2',
+  'PATH' => 'C:\\cygwinroot\\usr\\local\\bin;C:\\cygwinroot\\bin;C:\\cygwinroot\\bin;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\ldaptools;C:\\Program Files\\TortoiseSVN\\bin;',
+  'SystemRoot' => 'C:\\Windows',
+  'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe',
+  'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC',
+  'WINDIR' => 'C:\\Windows',
+  'SERVER_SIGNATURE' => '',
+  'SERVER_SOFTWARE' => 'Apache/2.2.16 (Win32) mod_aspdotnet/2.2 PHP/5.2.14',
+  'SERVER_NAME' => 'sg.aionroy.com',
+  'SERVER_ADDR' => '10.247.10.50',
+  'SERVER_PORT' => '88',
+  'REMOTE_ADDR' => '1.205.149.220',
+  'DOCUMENT_ROOT' => 'D:/AionEnv/AionWeb',
+  'SERVER_ADMIN' => 'admin@localhost',
+  'SCRIPT_FILENAME' => 'D:/AionEnv/AionWeb/shop.php',
+  'REMOTE_PORT' => '54338',
+  'GATEWAY_INTERFACE' => 'CGI/1.1',
+  'SERVER_PROTOCOL' => 'HTTP/1.1',
+  'REQUEST_METHOD' => 'GET',
+  'QUERY_STRING' => 'page=1&categoryId=0&sub_categoryId=7',
+  'REQUEST_URI' => '/shop.php?page=1&categoryId=0&sub_categoryId=7',
+  'SCRIPT_NAME' => '/shop.php',
+  'PHP_SELF' => '/shop.php',
+  'REQUEST_TIME' => 1418786964,
+)
+
+------ 灰色枫叶 时间: 03:29:25 客户IP: 1.205.149.220 ------
+
+错误：mysql_fetch_array(): supplied argument is not a valid MySQL result resource
+
+文件: D:\AionEnv\AionWeb\libs\Factory.class.php
+
+LINHA: 192
+
+引用: http://sg.aionroy.com:88/shop.php?page=1&categoryId=0&sub_categoryId=7
+
+POST   : NULL
+
+GET    : NULL
+
+FILE    : NULL
+
+SESSION    : NULL
+
+COOKIE    : NULL
+
+SERVER    : NULL
+
+------ 灰色枫叶 时间: 03:29:25 客户IP: 1.205.149.220 ------
+
+错误：mysql_free_result(): supplied argument is not a valid MySQL result resource
+
+文件: D:\AionEnv\AionWeb\libs\Factory.class.php
+
+LINHA: 196
+
+引用: http://sg.aionroy.com:88/shop.php?page=1&categoryId=0&sub_categoryId=7
+
+POST   : NULL
+
+GET    : NULL
+
+FILE    : NULL
+
+SESSION    : NULL
+
+COOKIE    : NULL
+
+SERVER    : NULL
+
+------ 灰色枫叶 时间: 03:29:25 客户IP: 1.205.149.220 ------
+
+错误：Invalid argument supplied for foreach()
+
+文件: D:\AionEnv\AionWeb\shop.php
+
+LINHA: 189
+
+引用: http://sg.aionroy.com:88/shop.php?page=1&categoryId=0&sub_categoryId=7
+
+POST   : array (
+)
+
+GET    : array (
+  'page' => '1',
+  'categoryId' => '0',
+  'sub_categoryId' => '8',
+)
+
+FILE    : array (
+)
+
+SESSION    : array (
+  'id' => '48',
+  'name' => 'a56673',
+  'access_level' => '0',
+  'playername' => '安承风',
+)
+
+COOKIE    : array (
+  'PHPSESSID' => '7ibv9mbchdrc0hr1ofg7r2ppu2',
+)
+
+SERVER    : array (
+  'HTTP_HOST' => 'sg.aionroy.com:88',
+  'HTTP_CONNECTION' => 'keep-alive',
+  'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.89 Safari/537.1',
+  'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'HTTP_REFERER' => 'http://sg.aionroy.com:88/shop.php?page=1&categoryId=0&sub_categoryId=7',
+  'HTTP_ACCEPT_ENCODING' => 'gzip,deflate,sdch',
+  'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.8',
+  'HTTP_ACCEPT_CHARSET' => 'GBK,utf-8;q=0.7,*;q=0.3',
+  'HTTP_COOKIE' => 'PHPSESSID=7ibv9mbchdrc0hr1ofg7r2ppu2',
+  'PATH' => 'C:\\cygwinroot\\usr\\local\\bin;C:\\cygwinroot\\bin;C:\\cygwinroot\\bin;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\ldaptools;C:\\Program Files\\TortoiseSVN\\bin;',
+  'SystemRoot' => 'C:\\Windows',
+  'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe',
+  'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC',
+  'WINDIR' => 'C:\\Windows',
+  'SERVER_SIGNATURE' => '',
+  'SERVER_SOFTWARE' => 'Apache/2.2.16 (Win32) mod_aspdotnet/2.2 PHP/5.2.14',
+  'SERVER_NAME' => 'sg.aionroy.com',
+  'SERVER_ADDR' => '10.247.10.50',
+  'SERVER_PORT' => '88',
+  'REMOTE_ADDR' => '1.205.149.220',
+  'DOCUMENT_ROOT' => 'D:/AionEnv/AionWeb',
+  'SERVER_ADMIN' => 'admin@localhost',
+  'SCRIPT_FILENAME' => 'D:/AionEnv/AionWeb/shop.php',
+  'REMOTE_PORT' => '54338',
+  'GATEWAY_INTERFACE' => 'CGI/1.1',
+  'SERVER_PROTOCOL' => 'HTTP/1.1',
+  'REQUEST_METHOD' => 'GET',
+  'QUERY_STRING' => 'page=1&categoryId=0&sub_categoryId=8',
+  'REQUEST_URI' => '/shop.php?page=1&categoryId=0&sub_categoryId=8',
+  'SCRIPT_NAME' => '/shop.php',
+  'PHP_SELF' => '/shop.php',
+  'REQUEST_TIME' => 1418786965,
+)
+
+------ 灰色枫叶 时间: 03:29:38 客户IP: 1.205.149.220 ------
+
+错误：mysql_fetch_array(): supplied argument is not a valid MySQL result resource
+
+文件: D:\AionEnv\AionWeb\libs\Factory.class.php
+
+LINHA: 192
+
+引用: http://sg.aionroy.com:88/shop.php?page=1&categoryId=1&sub_categoryId=4
+
+POST   : NULL
+
+GET    : NULL
+
+FILE    : NULL
+
+SESSION    : NULL
+
+COOKIE    : NULL
+
+SERVER    : NULL
+
+------ 灰色枫叶 时间: 03:29:38 客户IP: 1.205.149.220 ------
+
+错误：mysql_free_result(): supplied argument is not a valid MySQL result resource
+
+文件: D:\AionEnv\AionWeb\libs\Factory.class.php
+
+LINHA: 196
+
+引用: http://sg.aionroy.com:88/shop.php?page=1&categoryId=1&sub_categoryId=4
+
+POST   : NULL
+
+GET    : NULL
+
+FILE    : NULL
+
+SESSION    : NULL
+
+COOKIE    : NULL
+
+SERVER    : NULL
+
+------ 灰色枫叶 时间: 03:29:38 客户IP: 1.205.149.220 ------
+
+错误：Invalid argument supplied for foreach()
+
+文件: D:\AionEnv\AionWeb\shop.php
+
+LINHA: 189
+
+引用: http://sg.aionroy.com:88/shop.php?page=1&categoryId=1&sub_categoryId=4
+
+POST   : array (
+)
+
+GET    : array (
+  'page' => '1',
+  'categoryId' => '9',
+  'sub_categoryId' => '3',
+)
+
+FILE    : array (
+)
+
+SESSION    : array (
+  'id' => '48',
+  'name' => 'a56673',
+  'access_level' => '0',
+  'playername' => '安承风',
+)
+
+COOKIE    : array (
+  'PHPSESSID' => '7ibv9mbchdrc0hr1ofg7r2ppu2',
+)
+
+SERVER    : array (
+  'HTTP_HOST' => 'sg.aionroy.com:88',
+  'HTTP_CONNECTION' => 'keep-alive',
+  'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.89 Safari/537.1',
+  'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'HTTP_REFERER' => 'http://sg.aionroy.com:88/shop.php?page=1&categoryId=1&sub_categoryId=4',
+  'HTTP_ACCEPT_ENCODING' => 'gzip,deflate,sdch',
+  'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.8',
+  'HTTP_ACCEPT_CHARSET' => 'GBK,utf-8;q=0.7,*;q=0.3',
+  'HTTP_COOKIE' => 'PHPSESSID=7ibv9mbchdrc0hr1ofg7r2ppu2',
+  'PATH' => 'C:\\cygwinroot\\usr\\local\\bin;C:\\cygwinroot\\bin;C:\\cygwinroot\\bin;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\ldaptools;C:\\Program Files\\TortoiseSVN\\bin;',
+  'SystemRoot' => 'C:\\Windows',
+  'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe',
+  'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC',
+  'WINDIR' => 'C:\\Windows',
+  'SERVER_SIGNATURE' => '',
+  'SERVER_SOFTWARE' => 'Apache/2.2.16 (Win32) mod_aspdotnet/2.2 PHP/5.2.14',
+  'SERVER_NAME' => 'sg.aionroy.com',
+  'SERVER_ADDR' => '10.247.10.50',
+  'SERVER_PORT' => '88',
+  'REMOTE_ADDR' => '1.205.149.220',
+  'DOCUMENT_ROOT' => 'D:/AionEnv/AionWeb',
+  'SERVER_ADMIN' => 'admin@localhost',
+  'SCRIPT_FILENAME' => 'D:/AionEnv/AionWeb/shop.php',
+  'REMOTE_PORT' => '54344',
+  'GATEWAY_INTERFACE' => 'CGI/1.1',
+  'SERVER_PROTOCOL' => 'HTTP/1.1',
+  'REQUEST_METHOD' => 'GET',
+  'QUERY_STRING' => 'page=1&categoryId=9&sub_categoryId=3',
+  'REQUEST_URI' => '/shop.php?page=1&categoryId=9&sub_categoryId=3',
+  'SCRIPT_NAME' => '/shop.php',
+  'PHP_SELF' => '/shop.php',
+  'REQUEST_TIME' => 1418786978,
+)
+
+------ 灰色枫叶 时间: 03:30:00 客户IP: 1.205.149.220 ------
+
+错误：mysql_fetch_array(): supplied argument is not a valid MySQL result resource
+
+文件: D:\AionEnv\AionWeb\libs\Factory.class.php
+
+LINHA: 192
+
+引用: http://sg.aionroy.com:88/shop.php?page=1&categoryId=9&sub_categoryId=3
+
+POST   : NULL
+
+GET    : NULL
+
+FILE    : NULL
+
+SESSION    : NULL
+
+COOKIE    : NULL
+
+SERVER    : NULL
+
+------ 灰色枫叶 时间: 03:30:00 客户IP: 1.205.149.220 ------
+
+错误：mysql_free_result(): supplied argument is not a valid MySQL result resource
+
+文件: D:\AionEnv\AionWeb\libs\Factory.class.php
+
+LINHA: 196
+
+引用: http://sg.aionroy.com:88/shop.php?page=1&categoryId=9&sub_categoryId=3
+
+POST   : NULL
+
+GET    : NULL
+
+FILE    : NULL
+
+SESSION    : NULL
+
+COOKIE    : NULL
+
+SERVER    : NULL
+
+------ 灰色枫叶 时间: 03:30:00 客户IP: 1.205.149.220 ------
+
+错误：Invalid argument supplied for foreach()
+
+文件: D:\AionEnv\AionWeb\shop.php
+
+LINHA: 189
+
+引用: http://sg.aionroy.com:88/shop.php?page=1&categoryId=9&sub_categoryId=3
+
+POST   : array (
+)
+
+GET    : array (
+  'page' => '1',
+  'categoryId' => '9',
+  'sub_categoryId' => '5',
+)
+
+FILE    : array (
+)
+
+SESSION    : array (
+  'id' => '48',
+  'name' => 'a56673',
+  'access_level' => '0',
+  'playername' => '安承风',
+)
+
+COOKIE    : array (
+  'PHPSESSID' => '7ibv9mbchdrc0hr1ofg7r2ppu2',
+)
+
+SERVER    : array (
+  'HTTP_HOST' => 'sg.aionroy.com:88',
+  'HTTP_CONNECTION' => 'keep-alive',
+  'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.89 Safari/537.1',
+  'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'HTTP_REFERER' => 'http://sg.aionroy.com:88/shop.php?page=1&categoryId=9&sub_categoryId=3',
+  'HTTP_ACCEPT_ENCODING' => 'gzip,deflate,sdch',
+  'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.8',
+  'HTTP_ACCEPT_CHARSET' => 'GBK,utf-8;q=0.7,*;q=0.3',
+  'HTTP_COOKIE' => 'PHPSESSID=7ibv9mbchdrc0hr1ofg7r2ppu2',
+  'PATH' => 'C:\\cygwinroot\\usr\\local\\bin;C:\\cygwinroot\\bin;C:\\cygwinroot\\bin;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\ldaptools;C:\\Program Files\\TortoiseSVN\\bin;',
+  'SystemRoot' => 'C:\\Windows',
+  'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe',
+  'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC',
+  'WINDIR' => 'C:\\Windows',
+  'SERVER_SIGNATURE' => '',
+  'SERVER_SOFTWARE' => 'Apache/2.2.16 (Win32) mod_aspdotnet/2.2 PHP/5.2.14',
+  'SERVER_NAME' => 'sg.aionroy.com',
+  'SERVER_ADDR' => '10.247.10.50',
+  'SERVER_PORT' => '88',
+  'REMOTE_ADDR' => '1.205.149.220',
+  'DOCUMENT_ROOT' => 'D:/AionEnv/AionWeb',
+  'SERVER_ADMIN' => 'admin@localhost',
+  'SCRIPT_FILENAME' => 'D:/AionEnv/AionWeb/shop.php',
+  'REMOTE_PORT' => '54347',
+  'GATEWAY_INTERFACE' => 'CGI/1.1',
+  'SERVER_PROTOCOL' => 'HTTP/1.1',
+  'REQUEST_METHOD' => 'GET',
+  'QUERY_STRING' => 'page=1&categoryId=9&sub_categoryId=5',
+  'REQUEST_URI' => '/shop.php?page=1&categoryId=9&sub_categoryId=5',
+  'SCRIPT_NAME' => '/shop.php',
+  'PHP_SELF' => '/shop.php',
+  'REQUEST_TIME' => 1418786999,
+)
+
+------ 灰色枫叶 时间: 03:30:01 客户IP: 1.205.149.220 ------
+
+错误：mysql_fetch_array(): supplied argument is not a valid MySQL result resource
+
+文件: D:\AionEnv\AionWeb\libs\Factory.class.php
+
+LINHA: 192
+
+引用: http://sg.aionroy.com:88/shop.php?page=1&categoryId=9&sub_categoryId=5
+
+POST   : NULL
+
+GET    : NULL
+
+FILE    : NULL
+
+SESSION    : NULL
+
+COOKIE    : NULL
+
+SERVER    : NULL
+
+------ 灰色枫叶 时间: 03:30:01 客户IP: 1.205.149.220 ------
+
+错误：mysql_free_result(): supplied argument is not a valid MySQL result resource
+
+文件: D:\AionEnv\AionWeb\libs\Factory.class.php
+
+LINHA: 196
+
+引用: http://sg.aionroy.com:88/shop.php?page=1&categoryId=9&sub_categoryId=5
+
+POST   : NULL
+
+GET    : NULL
+
+FILE    : NULL
+
+SESSION    : NULL
+
+COOKIE    : NULL
+
+SERVER    : NULL
+
+------ 灰色枫叶 时间: 03:30:01 客户IP: 1.205.149.220 ------
+
+错误：Invalid argument supplied for foreach()
+
+文件: D:\AionEnv\AionWeb\shop.php
+
+LINHA: 189
+
+引用: http://sg.aionroy.com:88/shop.php?page=1&categoryId=9&sub_categoryId=5
+
+POST   : array (
+)
+
+GET    : array (
+  'page' => '1',
+  'categoryId' => '9',
+  'sub_categoryId' => '4',
+)
+
+FILE    : array (
+)
+
+SESSION    : array (
+  'id' => '48',
+  'name' => 'a56673',
+  'access_level' => '0',
+  'playername' => '安承风',
+)
+
+COOKIE    : array (
+  'PHPSESSID' => '7ibv9mbchdrc0hr1ofg7r2ppu2',
+)
+
+SERVER    : array (
+  'HTTP_HOST' => 'sg.aionroy.com:88',
+  'HTTP_CONNECTION' => 'keep-alive',
+  'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.89 Safari/537.1',
+  'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'HTTP_REFERER' => 'http://sg.aionroy.com:88/shop.php?page=1&categoryId=9&sub_categoryId=5',
+  'HTTP_ACCEPT_ENCODING' => 'gzip,deflate,sdch',
+  'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.8',
+  'HTTP_ACCEPT_CHARSET' => 'GBK,utf-8;q=0.7,*;q=0.3',
+  'HTTP_COOKIE' => 'PHPSESSID=7ibv9mbchdrc0hr1ofg7r2ppu2',
+  'PATH' => 'C:\\cygwinroot\\usr\\local\\bin;C:\\cygwinroot\\bin;C:\\cygwinroot\\bin;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\ldaptools;C:\\Program Files\\TortoiseSVN\\bin;',
+  'SystemRoot' => 'C:\\Windows',
+  'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe',
+  'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC',
+  'WINDIR' => 'C:\\Windows',
+  'SERVER_SIGNATURE' => '',
+  'SERVER_SOFTWARE' => 'Apache/2.2.16 (Win32) mod_aspdotnet/2.2 PHP/5.2.14',
+  'SERVER_NAME' => 'sg.aionroy.com',
+  'SERVER_ADDR' => '10.247.10.50',
+  'SERVER_PORT' => '88',
+  'REMOTE_ADDR' => '1.205.149.220',
+  'DOCUMENT_ROOT' => 'D:/AionEnv/AionWeb',
+  'SERVER_ADMIN' => 'admin@localhost',
+  'SCRIPT_FILENAME' => 'D:/AionEnv/AionWeb/shop.php',
+  'REMOTE_PORT' => '54347',
+  'GATEWAY_INTERFACE' => 'CGI/1.1',
+  'SERVER_PROTOCOL' => 'HTTP/1.1',
+  'REQUEST_METHOD' => 'GET',
+  'QUERY_STRING' => 'page=1&categoryId=9&sub_categoryId=4',
+  'REQUEST_URI' => '/shop.php?page=1&categoryId=9&sub_categoryId=4',
+  'SCRIPT_NAME' => '/shop.php',
+  'PHP_SELF' => '/shop.php',
+  'REQUEST_TIME' => 1418787000,
+)
+
